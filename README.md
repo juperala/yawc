@@ -1,9 +1,10 @@
 # yawc
-Yet Another Worm Clone
+
+**Archived legacy project. No active development.**
+
+Yet Another Worm Clone. Implemented as 16-bit DOS assembly exercise.
 
 ![Yet Another Worm Clone](screenshot.png "Game screenshot")
-
-Implemented as 16-bit DOS assembly exercise project way back. No active development.
 
 ## Requirements
 - 16-bit DOS, runs on [DOSBox](https://www.dosbox.com/)
